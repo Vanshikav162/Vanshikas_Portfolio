@@ -8,7 +8,7 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 - Second Reflection: [Reflection #2](./posts/second_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+I am 15 years old, studying at PCSS. My hobies are dancing, painting and baking.
 
 ---
 *Update this page by editing `index.md` in your repository.*
